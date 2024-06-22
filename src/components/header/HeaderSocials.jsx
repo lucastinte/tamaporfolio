@@ -1,16 +1,23 @@
-import React from 'react';
-import { BsLinkedin } from 'react-icons/bs';
-import { FaGithub } from 'react-icons/fa';
-import { FaAngellist } from 'react-icons/fa'
+import React from "react";
+import { BsLinkedin } from "react-icons/bs";
+import { FaWhatsapp } from "react-icons/fa"; // Importa el icono de WhatsApp
 
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-      <a href="https://www.linkedin.com/in/meri-gogichashvili/" target="_blank" rel="noreferrer" ><BsLinkedin /></a>
-      <a href="https://github.com/Meri-MG" target="_blank" rel="noreferrer" ><FaGithub /></a>
-      <a href="https://angel.co/u/meri-gogichashvili" target="_blank" rel="noreferrer" ><FaAngellist /></a>
+      <a
+        href="https://www.linkedin.com/in/tamara-pamela-tinte-maizares74ab741b6/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <BsLinkedin />
+      </a>
+      <a href="https://wa.me/+5493884639286" target="_blank" rel="noreferrer">
+        <FaWhatsapp />
+      </a>{" "}
+      {/* Reemplaza el enlace por tu número de WhatsApp */}
     </div>
-  )
-}
+  );
+};
 
-export default HeaderSocials
+export default HeaderSocials;
