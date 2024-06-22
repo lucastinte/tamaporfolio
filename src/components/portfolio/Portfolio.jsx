@@ -1,7 +1,7 @@
 import React from "react";
 import IMG1 from "../../assets/imagen1.png";
-import IMG2 from "../../assets/todo.png";
-import IMG4 from "../../assets/fake.png";
+import IMG2 from "../../assets/imagen2.png";
+import IMG4 from "../../assets/imagen3.png";
 
 import "./portfolio.css";
 
@@ -20,22 +20,23 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "Cdor. Ignacio Arturo Pinto ",
+      title: "Cdor. Ignacio Arturo Pinto",
       img: IMG4,
       description:
         "Liquidación y elaboración de declaraciones juradas impositivas nacionales y provinciales, manejo de página de AFIP y softwares contables como Tango y SOS contador, facturación diaria a clientes, gestión de contribuyentes monotributistas, liquidación de sueldos, constitución de sociedades, y asistencia administrativa integral.",
       technologies: "Secretaría Administrativa Contable",
-      link: "https://fakestore-metrics.netlify.app/",
-      github: "https://github.com/Meri-MG/Fakestore---react",
+      link: "",
+      github: "",
     },
     {
       id: 3,
-      title: "To-Do App",
+      title: "Cdor. Paula Carlos",
       img: IMG2,
-      description: "User friendly app to plan your day and manage tasks",
-      technologies: "JavaScript | Webpack",
-      link: "https://meri-mg.github.io/To-Do-List/dist/",
-      github: "https://github.com/Meri-MG/To-Do-List",
+      description:
+        "Elaboración y liquidación de declaraciones juradas fiscales a nivel nacional y provincial, manejo de la plataforma AFIP y programas contables como Tango y SOS Contador, facturación diaria a clientes, gestión de monotributistas, liquidación de salarios, constitución de sociedades, y asistencia administrativa integral.",
+      technologies: "Secretaría Administrativa Contable",
+      link: "",
+      github: "",
     },
   ];
 
