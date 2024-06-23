@@ -37,7 +37,7 @@ const Footer = () => {
         >
           <BsLinkedin />
         </a>
-        <a href="https://wa.me/1234567890" target="_blank" rel="noreferrer">
+        <a href="https://wa.me/+5493884639286" target="_blank" rel="noreferrer">
           <FaWhatsapp />
         </a>{" "}
         {/* Reemplaza el enlace por tu número de WhatsApp */}

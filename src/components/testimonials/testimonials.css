@@ -64,4 +64,8 @@
   .client__review {
     width: var(--container-width-sm);
   }
+  .full-image {
+    width: 100%;
+    height: 350px;
+  }
 }
