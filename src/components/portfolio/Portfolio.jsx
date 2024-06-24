@@ -1,7 +1,7 @@
 import React from "react";
 import IMG1 from "../../assets/imagen1.png";
-import IMG2 from "../../assets/imagen2.png";
-import IMG4 from "../../assets/imagen3.png";
+import IMG2 from "../../assets/imagen3.png";
+import IMG4 from "../../assets/imagen2.png";
 
 import "./portfolio.css";
 
@@ -20,7 +20,7 @@ const Portfolio = () => {
     },
     {
       id: 2,
-      title: "Cdor. Ignacio Arturo Pinto",
+      title: "Cdor. Ignacio Arturo Pinto MP 1683 CPCEJ",
       img: IMG4,
       description:
         "Liquidación y elaboración de declaraciones juradas impositivas nacionales y provinciales, manejo de página de AFIP y softwares contables como Tango y SOS contador, facturación diaria a clientes, gestión de contribuyentes monotributistas, liquidación de sueldos, constitución de sociedades, y asistencia administrativa integral.",
