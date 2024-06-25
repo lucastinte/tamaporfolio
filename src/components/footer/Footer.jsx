@@ -31,7 +31,7 @@ const Footer = () => {
       </ul>
       <div className="footer__socials">
         <a
-          href="https://www.linkedin.com/in/tamara-pamela-tinte-maizares74ab741b6/"
+          href="https://www.https://www.linkedin.com/in/tamara-pamela-tinte-maizares-74ab741b6/"
           target="_blank"
           rel="noreferrer"
         >
